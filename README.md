@@ -4,6 +4,7 @@ Link to Gitlab Beginners Guide
 Commands/ Shortcuts:
 ls (lists the current directory contents)
 vim (Creates and Edits Files Efficiently)
+
 rm -rf -- <file/folder you want to remove> (When you want to remove a file/folder)
 
 Other Git Commands
