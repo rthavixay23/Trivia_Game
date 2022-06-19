@@ -28,3 +28,4 @@ These are the steps I took to create this game.
   
   
 4. Pushing to an existing folder
+  a. git push
